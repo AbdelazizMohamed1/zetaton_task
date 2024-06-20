@@ -1,6 +1,6 @@
 # zetaton_task
 
-using free news api.
+using free pexels api.
 
 ## Android Screen Shots
 
