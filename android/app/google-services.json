@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688800351699",
+    "project_id": "zetaton-task-8526f",
+    "storage_bucket": "zetaton-task-8526f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688800351699:android:703932d9b8ce932c6c5b26",
+        "android_client_info": {
+          "package_name": "com.example.zetaton_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAey2AHUzMyR8S_gj2pQgWso_dpNJucvfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
